@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ljc19\desktop\c++\basic_code\two_sum\two_sum\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\ljc19\desktop\c++\basic_code\two_sum\two_sum\source.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\ljc19\desktop\c++\basic_code\two_sum\two_sum\source.cpp(26): warning C4715: 'Solution::twoSum': not all control paths return a value
+  Two_Sum.vcxproj -> C:\Users\ljc19\Desktop\C++\Basic_Code\Two_Sum\Debug\Two_Sum.exe

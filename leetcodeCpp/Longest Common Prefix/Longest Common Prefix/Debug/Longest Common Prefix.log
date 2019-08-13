@@ -1,0 +1,5 @@
+﻿  SLongest Common Prefix.cpp
+c:\users\ljc19\desktop\c++\basic_code\longest common prefix\longest common prefix\slongest common prefix.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\ljc19\desktop\c++\basic_code\longest common prefix\longest common prefix\slongest common prefix.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\ljc19\desktop\c++\basic_code\longest common prefix\longest common prefix\slongest common prefix.cpp(14): warning C4018: '>=': signed/unsigned mismatch
+  Longest Common Prefix.vcxproj -> C:\Users\ljc19\Desktop\C++\Basic_Code\Longest Common Prefix\Debug\Longest Common Prefix.exe

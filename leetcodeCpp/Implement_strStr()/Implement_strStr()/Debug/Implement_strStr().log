@@ -1,0 +1,4 @@
+﻿  Implement_strStr().cpp
+c:\users\ljc19\source\repos\implement_strstr()\implement_strstr()\implement_strstr().cpp(26): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ljc19\source\repos\implement_strstr()\implement_strstr()\implement_strstr().cpp(28): warning C4018: '<': signed/unsigned mismatch
+  Implement_strStr().vcxproj -> C:\Users\ljc19\source\repos\Implement_strStr()\Debug\Implement_strStr().exe

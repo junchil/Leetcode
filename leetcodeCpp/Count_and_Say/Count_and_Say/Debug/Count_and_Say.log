@@ -1,0 +1,3 @@
+﻿  Count_and_Say.cpp
+c:\users\ljc19\desktop\c++\leetcode\count_and_say\count_and_say\count_and_say.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Count_and_Say.vcxproj -> C:\Users\ljc19\Desktop\C++\LeetCode\Count_and_Say\Debug\Count_and_Say.exe
